@@ -1,0 +1,5 @@
+= wcs-stackblitz-starter
+
+Stackblitz starters for WCS project
+
+* link:./wcs-angular-demo[wcs-angular-demo] : contains a demo sample with just Angular and WCS
